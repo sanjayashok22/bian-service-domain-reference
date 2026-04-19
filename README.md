@@ -4,12 +4,8 @@ ISO 20022 Payments Guide
 > A practitioner's guide to ISO 20022 migration — message structures, payment rail mapping, SEPA SCT Inst readiness, SWIFT CBPR+ coexistence, and compliance-by-design architecture.
 Built from 20+ years of hands-on delivery across Tier-1 global banks, payment hubs, and FinTech platforms spanning Europe, Southeast Asia, GCC, and the US.
 ---
-** Who this is for**
-Product Owners and Product Managers building or migrating payment platforms
-Business Analysts translating ISO 20022 requirements into user stories and acceptance criteria
-Solution Architects designing API-first, microservices-based payment hubs
-Compliance and Operations teams preparing for regulatory cutover deadlines
-FinTech founders building greenfield platforms on modern payment rails
+ ** Who this is for **
+
 ---
 **What is ISO 20022?**
 ISO 20022 is the global standard for financial messaging — a single, rich data language replacing dozens of legacy formats (SWIFT MT, EDIFACT, proprietary formats) across payment rails worldwide.
